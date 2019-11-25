@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">5.2.1.InternalFiles_SaveText</string>
+    <string name="Registration">Регистрация</string>
+    <string name="Login">Войти</string>
+    <string name="Name">Имя пользователя</string>
+    <string name="Password">Пароль</string>
+</resources>
